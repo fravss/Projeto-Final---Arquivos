@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Alunos
 
-Este é um programa simples em C para gerenciamento de dados de alunos. Ele oferece as seguintes funcionalidades:
+Este é um programa em C para gerenciamento de dados de alunos. Ele oferece as seguintes funcionalidades:
 
 ## Funcionalidades
 
